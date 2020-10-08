@@ -2,7 +2,7 @@ FROM node
 
 WORKDIR /ms-enrollmentcourses
 
-COPY package*.json .
+COPY package*.json ./
 
 RUN npm install
 
