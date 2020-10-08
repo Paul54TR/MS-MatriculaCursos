@@ -1,0 +1,19 @@
+{
+  "name": "ms-matriculacursos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul54TR/MS-MatriculaCursos.git"
+  },
+  "author": "Paul Tijero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul54TR/MS-MatriculaCursos/issues"
+  },
+  "homepage": "https://github.com/Paul54TR/MS-MatriculaCursos#readme"
+}
